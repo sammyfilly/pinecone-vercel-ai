@@ -24,7 +24,7 @@
     "openai-edge": "^1.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.10.1",
+    "react-icons": "^5.0.0",
     "react-markdown": "^9.0.0",
     "sswr": "^2.0.0",
     "svelte": "^3.29.0",
